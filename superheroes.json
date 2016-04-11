@@ -1,0 +1,90 @@
+{
+	"superhero":"Batman",
+	"alter_ego":"BruceWayne",
+	"logo": "../static/pictures/batman.png"
+}
+{
+	"superhero":"Superman",
+	"alter_ego":"Kal-El",
+	"logo": "../static/pictures/superman.png"
+}
+{
+	"superhero":"Flash",
+	"alter_ego":"JayGarrick",
+	"logo": "../static/pictures/flash.png"
+}
+{
+	"superhero":"Green Lantern",
+	"alter_ego":"AlanScott",
+	"logo": "../static/pictures/greenlantern.png"
+}
+{
+	"superhero":"Green Arrow",
+	"alter_ego":"OliverQueen",
+	"logo": "../static/pictures/greenarrow.png"
+}
+{
+	"superhero":"Wonder Woman",
+	"alter_ego":"PrincessDiana",
+	"logo": "../static/pictures/wonderwoman.png"
+}
+{
+	"superhero":"Martian Manhunter",
+	"alter_ego":"J'onnJ'onzz",
+	"logo": "../static/pictures/martian.png"
+}
+{
+	"superhero":"Nightwing",
+	"alter_ego":"DickGrayson",
+	"logo": "../static/pictures/nightwing.png"
+}
+{
+	"superhero":"Black Canary",
+	"alter_ego":"DinahDrake",
+	"logo": "../static/pictures/blackcanary.png"
+}
+{
+	"superhero":"Spider Man",
+	"alter_ego":"PeterParker",
+	"logo": "../static/pictures/spiderman.png"
+}
+{
+	"superhero":"Captain America",
+	"alter_ego":"SteveRogers",
+	"logo": "../static/pictures/captainamerica.png"
+}
+{
+	"superhero":"Iron Man",
+	"alter_ego":"TonyStark",
+	"logo": "../static/pictures/ironman.png"
+}
+{
+	"superhero":"Thor",
+	"alter_ego":"ThorOdinson",
+	"logo": "../static/pictures/thor.png"
+}
+{
+	"superhero":"Hulk",
+	"alter_ego":"BruceBanner",
+	"logo": "../static/pictures/hulk.png"
+}
+{
+	"superhero":"Wolverine",
+	"alter_ego":"JamesHowlett",
+	"logo": "../static/pictures/wolverine.png"
+}
+{
+	"superhero":"Daredevil",
+	"alter_ego":"MatthewMurdock",
+	"logo": "../static/pictures/daredevil.png"
+}
+{
+	"superhero":"Hawkeye",
+	"alter_ego":"ClintonBarton",
+	"logo": "../static/pictures/hawkeye.png"
+}
+{
+	"superhero":"Cyclops",
+	"alter_ego":"ScottSummers",
+	"logo": "../static/pictures/cyclops.png"
+}
